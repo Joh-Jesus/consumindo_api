@@ -4,8 +4,8 @@ Um simples projeto flutter.
 
 ## Usando:
 
-Uno
-Dio
-Http
-Modular
+Uno,
+Dio,
+Http,
+Modular e 
 Mocktail
